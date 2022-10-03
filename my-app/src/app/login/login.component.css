@@ -1,0 +1,23 @@
+.main-div mat-card{
+    padding:0px;
+    background-color: antiquewhite;
+}
+.login-form{
+    padding : 20px;
+   }
+   .toolbar-div{
+   
+    background-color: #de497b;
+    color: aliceblue;
+    text-align: center;
+   }
+   .jbutton-div{
+    background-color: #de497b;
+    color: aliceblue;
+   }
+   .username-div{
+    color: #f7e0e7;
+   }
+   .password-div{
+   color: #f7e0e7;
+   }
